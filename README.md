@@ -1,6 +1,6 @@
 # Master-Code01-Modeling-an-Aquifer.
-This repository is the first code made for my Master's Degree in Engineering, for the subject "Fundamentals of Engineering".
-Where through the Research Article, "Modeling an Aquifer: Numerical Solution to the Groundwater Flow Equation" written by PhD Victor Vazquez (the same one who teaches the subject).
+This repository is the first code made for my Master's Degree in Engineering, for the course "Fundamentals of Engineering".
+Where through the Research Article, "Modeling an Aquifer: Numerical Solution to the Groundwater Flow Equation" written by PhD Victor Vazquez (the same one who teaches the course).
 It teaches us MATLAB for analysis and modeling of differential equations through numerical methods.
 
 We develop a computational routine, in the Finite Difference Method, which solves the resulting elliptic partial equation, both in a homogeneous isotropic and in a homogeneous anisotropic media.
